@@ -18,6 +18,7 @@ fun parseArguments(args: Array): Triple {
     return Triple(operation, num1, num2)
 }
 
+
 fun resta(num1: Int, num2: Int): Int {
     return num1 - num2
 }
